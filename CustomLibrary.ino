@@ -13,6 +13,6 @@ void setup() {
 }
 
 void loop() {
-  RGB.red();
+  RGB.green();
   delay(2000);
 }
