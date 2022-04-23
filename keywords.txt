@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For ledRGB
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ledRGB	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+red		KEYWORD2
+green		KEYWORD2
+blue		KEYWORD2
+white		KEYWORD2
+black		KEYWORD2
+setColor	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
