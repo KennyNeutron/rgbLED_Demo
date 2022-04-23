@@ -13,5 +13,6 @@ void setup() {
 }
 
 void loop() {
-  RGB.setColor(0,200,155);
+  RGB.red();
+  delay(2000);
 }
